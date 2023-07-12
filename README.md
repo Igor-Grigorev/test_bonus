@@ -9,3 +9,6 @@
   -"nlohmann/json" - для работы с json файлами
   -"zlib" - для сжатия и архивирования
   -"vcl" - реализация простого интерфейса для отображения запросов
+
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=раз+два+три+жопа)](https://git.io/typing-svg)
